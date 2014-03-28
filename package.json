@@ -1,0 +1,13 @@
+{
+  "name": "play-js",
+  "description": "Agnostic frame-skipping animation library",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skidding/play.git"
+  },
+  "devDependencies": {
+    "uglify-js": "~2.4.8"
+  },
+  "main": "src/play.js"
+}
